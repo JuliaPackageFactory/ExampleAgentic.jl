@@ -1,0 +1,10 @@
+name = "ExampleAgentic"
+uuid = "bcae8da6-605e-4d94-9c5e-b63b0c572a61"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.12"
+
+[workspace]
+projects = ["test"]
